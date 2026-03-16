@@ -24,15 +24,25 @@ A disciplina de Algoritmos Avançados entra na grade acadêmica para mim como um
 - Plano de Ação: Exercícios Práticos (Quando couberem), Vídeo Aulas, Pesquisas em fórums e sites do assunto
 - Medição: Evolução constante do código e documentação do Portifólio, com estrutura organizada e coesa
 - Prazo: Final do Semestre espero ter alguma evolução, prazo final sendo fim do ano
-### 2. 
-- Contexto: 
-- Descrição: 
-- Plano de Ação: 
-- Medição: 
-- Prazo:
-### 3. 
-- Contexto: 
-- Descrição: 
-- Plano de Ação: 
-- Medição: 
-- Prazo: 
+### 2. Entrada no Mercado de Trabaho
+- Contexto: Atualmente desempregado, estou tentando conseguir um emprego na área
+- Descrição: Ampliar as buscas e o foco na busca por um emprego, me candidatando para vagas e me preparando melhor para aquelas que abordarem assuntos não tão confortáveis para mim
+- Plano de Ação: Revisão de anúncios em sites como Gupy, Linkdedin e Indeed, planos de estudo para melhor preparação para entrevistas
+- Medição: Processos de Seleção indo pra frente, Emprego oficialmente conquistado
+- Prazo: Até o final do semestre idealmente
+### 3. Expansão de Conhecimento
+- Contexto: Aprimorar meus conhecimentos para assuntos menos necessários por agora, como foco em temas secundários aos trabalhos/projetos que tenho atualmente 
+- Descrição: Se na meta 1 eu foco mais no que preciso agora, aqui eu busco expandir meu conhecimento para temas que no momento ainda não são úteis para os trabalhos atuais, porém, podem vir a ser úteis ou são interessantes de se saber 
+- Plano de Ação: Encaixe em folgas e intervalos para estudos breves e menos aprofundados nesses assuntos com exercícios online
+- Medição: Evolução constante e testes eventuais se sentir necessidade de uma prova mais concreta
+- Prazo: Sem prazo final, a ideia se estabelece para esse ano podendo ser levada adiante
+
+## 📅 Rotina semanal de estudo
+Blocos separados em dois dias, na parte da tarde/noite;
+### Bloco 1
+Foco principal em revisão e aprofundamento de assuntos mais recorrentes para a disciplina/faculdade e execução de trabalhos/exercícios passados pelos professores (Na falta disso, recorrer a exercícios online para incluir alguma prática)
+### Bloco 2
+Foco no prático, escolher algum tema e realizar alguns exercícios e leituras sobre o mesmo, para ter mais aprofundamento
+
+## 🤖 Plano de uso de IA
+Utilizar a IA nas pesquisas, an formulação de exercícios na obtenção de eventuais recomendações de leituras (não necessariamente livros, artigos mais curtos). Utilizar a IA sempre na fase inicial para começar o estudo, gerando os itens necessários para tal, a partir desse ponto, retornar a mesma apenas para revisão do que foi feito ou sanar dúvidas.
